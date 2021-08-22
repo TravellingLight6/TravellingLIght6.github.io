@@ -5,3 +5,8 @@ category: Reading
 ---
 
 Appending 中文字体
+```c++
+#include <iosteam>
+
+using namespace std;
+```
