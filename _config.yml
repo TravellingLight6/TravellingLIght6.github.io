@@ -186,20 +186,20 @@ font:
   # Fallback to `global` font settings.
   posts:
     external: true
-    family:
+    family: Noto Serif SC
 
   # Font settings for Logo
   # Fallback to `global` font settings.
   # The `size` option use `px` as unit
   logo:
     external: true
-    family:
-    size:
+    family: Lobster Two
+    size: 24
 
   # Font settings for <code> and code blocks.
   codes:
     external: true
-    family:
+    family: inconsolata
     size:
 
 
